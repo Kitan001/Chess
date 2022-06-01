@@ -1,0 +1,108 @@
+                                                        body {
+                                                            background-color: antiquewhite;
+                                                            animation: changeBG 5s linear infinite;
+                                                        }
+                                                        
+                                                        .main {
+                                                            padding-left: 55vh;
+                                                        }
+                                                        
+                                                        .box {
+                                                            width: 150px;
+                                                            height: 150px;
+                                                            border: 1px solid black;
+                                                            display: inline-block;
+                                                            margin: -2px;
+                                                            font-size: 80px;
+                                                            text-align: center;
+                                                        }
+                                                        
+                                                        a {
+                                                            text-decoration: none;
+                                                            color: black;
+                                                        }
+                                                        
+                                                        .box {
+                                                            width: 150px;
+                                                            height: 150px;
+                                                            border: 1px solid black;
+                                                            display: inline-block;
+                                                            margin: -2px;
+                                                            font-size: 80px;
+                                                            text-align: center;
+                                                        }
+                                                        
+                                                        .boxa {
+                                                            width: 150px;
+                                                            height: 150px;
+                                                            border: 1px solid black;
+                                                            display: inline-block;
+                                                            margin: -2px;
+                                                            font-size: 80px;
+                                                            text-align: center;
+                                                        }
+                                                        
+                                                        .boxa:hover {
+                                                            background: grey;
+                                                            color: white;
+                                                            cursor: pointer;
+                                                        }
+                                                        
+                                                        .black {
+                                                            background-color: black;
+                                                            color: white;
+                                                        }
+                                                        
+                                                        .blacka {
+                                                            background-color: black;
+                                                            color: white;
+                                                        }
+                                                        
+                                                        .blacka:hover {
+                                                            background: lightgrey;
+                                                            color: black;
+                                                            cursor: pointer;
+                                                        }
+                                                        
+                                                        @media only screen and (max-width: 600px) {
+                                                            body {
+                                                                background-color: lightblue;
+                                                            }
+                                                        }
+                                                        /* @keyframes changeBG {
+                                                                0% {
+                                                                    background-color: antiquewhite;
+                                                                }
+                                                                 10% {
+                                                        background-color: gold;
+                                                    }
+                                                    20% {
+                                                        background-color: lightsalmon;
+                                                    }
+                                                    30% {
+                                                        background-color: goldenrod;
+                                                    }
+                                                    40% {
+                                                        background-color: orange;
+                                                    }*/
+                                                        /*50% {
+                                                                    background-color: lightcyan;
+                                                                }
+                                                                60% {
+                                                                    background-color: lightslategray;
+                                                                }
+                                                                70% {
+                                                                    background-color: lightgray;
+                                                                }
+                                                                80% {
+                                                                    background-color: lightyellow;
+                                                                }
+                                                                90% {
+                                                                    background-color: palegoldenrod;
+                                                                }
+                                                                
+                                                            
+                                                            100% {
+                                                                background-color: lightskyblue;
+                                                            }
+                                                        }*/

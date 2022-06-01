@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\bootstrap-5.2.0-beta1-dist"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "ChessBoard Project"
+    }
+}
